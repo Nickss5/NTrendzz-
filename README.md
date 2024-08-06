@@ -1,5 +1,5 @@
 # NTrendzz
-This is my first ever E-commerce Platform! Check it out here 👉 ![](https://NTrendzz.ccbp.tech)
+This is my first ever E-commerce Platform! Check it out here 👉 [https://NTrendzz.ccbp.tech](https://NTrendzz.ccbp.tech)
 
 I created a front-end clone of an e-commerce website, featuring a user interface that allows users to:
 
