@@ -1,2 +1,2 @@
-# NTrendzz-
+# NTrendzz
 E-commerce platform
