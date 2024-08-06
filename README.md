@@ -1,0 +1,2 @@
+# NTrendzz-
+E-commerce platform
