@@ -2,7 +2,7 @@
 
 This is my first ever E-commerce Platform! Check it out here 👉 [https://NTrendzz.ccbp.tech](https://NTrendzz.ccbp.tech)
 
-I created a front-end clone of an e-commerce website, featuring a user interface that allows users to:
+I created a front-end clone of an e-commerce website:
 
 - **The stack I'm using**: JavaScript, HTML, CSS, ReactJs, JWT, REST APIs, local storage
 - **Login**: Securely authenticate users including some Prime Users.
